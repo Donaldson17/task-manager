@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Complete React project",
+      "description": "Finish the phase 2 project for submission",
+      "dueDate": "2023-06-15",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Study for exam",
+      "description": "Review chapters 5-8 for the upcoming test",
+      "dueDate": "2023-06-20",
+      "completed": false
+    }
+  ]
+}
