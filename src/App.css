@@ -1,4 +1,4 @@
-/* Global Styles */
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -18,7 +18,7 @@ body {
   padding: 20px;
 }
 
-/* Navbar Styles */
+
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -47,7 +47,7 @@ body {
   color: white;
 }
 
-/* Task List Styles */
+
 .task-list {
   background: white;
   padding: 20px;
@@ -60,7 +60,7 @@ body {
   color: #2c3e50;
 }
 
-/* Task Item Styles */
+ 
 .task-item {
   background: #f9f9f9;
   padding: 15px;
@@ -74,7 +74,7 @@ body {
   margin-bottom: 5px;
 }
 
-/* Add Task Form Styles */
+
 .add-task {
   background: white;
   padding: 20px;
@@ -129,7 +129,7 @@ body {
   background-color: #2980b9;
 }
 
-/* About Page Styles */
+
 .about {
   background: white;
   padding: 20px;
